@@ -110,8 +110,8 @@ const MyApp = () => {
 
 const styles = StyleSheet.create({
     container: {
-        padding: 20,
         paddingTop: 50,
+        padding: 20,
         backgroundColor: '#f5f5f5',
     },
     title: {
