@@ -150,8 +150,8 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: '600',
         color: '#444',
-        textAlign: 'center',
         marginBottom: 10,
+        textAlign: 'center',
     },
     image: {
         width: '100%',
